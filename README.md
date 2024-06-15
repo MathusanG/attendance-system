@@ -22,12 +22,12 @@ Run the Server
 
 ## Login 
 You should see the login page. Enter the test credentials:
-	  - Username: "user"
-  	- Password: "1234"
+	- Username: "user"
+ 	- Password: "1234"
 	If the login is successful, you should be redirected to the home page, displaying a welcome message and a logout button.
 
 ## Logout
 Click the logout button to clear the token and redirect back to the login page.
 
 ## Screenshots
-	Screenshots are placed in the 'docs' folder.
+Screenshots are placed in the 'docs' folder.
